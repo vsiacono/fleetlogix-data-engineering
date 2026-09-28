@@ -1,0 +1,8 @@
+boto3
+faker
+numpy
+pandas
+psycopg2-binary
+schedule
+snowflake-connector-python
+tqdm
